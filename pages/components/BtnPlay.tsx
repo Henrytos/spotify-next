@@ -12,7 +12,7 @@ export default function BtnPlay({ path }: { path: string | undefined }) {
         translate-y-5
         "
     >
-      <Play className="translate-x-[1px]" />
+      <Play className="translate-x-[1px] w-6 h-6" />
     </Link>
   );
 }

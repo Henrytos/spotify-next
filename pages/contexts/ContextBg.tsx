@@ -1,4 +1,5 @@
 import { ReactNode, createContext, useState } from "react";
+import { useBg } from "../hooks/useBg";
 export type bgType = {
   bg: string;
   setBg: (value: string | number) => void;
@@ -11,7 +12,7 @@ export default function ContextBgProvider({
 }: {
   children: ReactNode;
 }) {
-  const [bg, setBg] = useState<bgType | any>("from-zinc-600/40 ");
+  const [bg, setBg] = useState<bgType | any>("from-zinc-600/40");
   return (
     <ContextBg.Provider value={{ bg, setBg }}>
       <main

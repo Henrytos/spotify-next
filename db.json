@@ -4,55 +4,63 @@
     "name": "AfterDark",
     "author": "sla",
     "urlImg": "https://i.pinimg.com/236x/9b/04/a3/9b04a33792fc6b6fe320da198c0beb30.jpg",
-    "srcMusic": "/public/audios/afterdark.mp3"
+    "srcMusic": "/public/audios/afterdark.mp3",
+    "urlImgAuthor": "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs"
   },
   {
     "id": "2",
     "name": "AfterDark",
     "author": "sla",
     "urlImg": "https://images.uncyc.org/pt/9/90/After_dark.png",
-    "srcMusic": "/public/audios/afterdark.mp3"
+    "srcMusic": "/public/audios/afterdark.mp3",
+    "urlImgAuthor": "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs"
   },
   {
     "id": "3",
     "name": "AfterDark",
     "author": "sla",
     "urlImg": "https://images.uncyc.org/pt/9/90/After_dark.png",
-    "srcMusic": "/public/audios/afterdark.mp3"
-  },
-  {
-    "id": "3",
-    "name": "AfterDark",
-    "author": "sla",
-    "urlImg": "https://images.uncyc.org/pt/9/90/After_dark.png",
-    "srcMusic": "/public/audios/afterdark.mp3"
+    "srcMusic": "/public/audios/afterdark.mp3",
+    "urlImgAuthor": "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs"
   },
   {
     "id": "4",
     "name": "AfterDark",
     "author": "sla",
     "urlImg": "https://images.uncyc.org/pt/9/90/After_dark.png",
-    "srcMusic": "/public/audios/afterdark.mp3"
+    "srcMusic": "/public/audios/afterdark.mp3",
+    "urlImgAuthor": "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs"
   },
   {
     "id": "5",
     "name": "AfterDark",
     "author": "sla",
     "urlImg": "https://images.uncyc.org/pt/9/90/After_dark.png",
-    "srcMusic": "/public/audios/afterdark.mp3"
+    "srcMusic": "/public/audios/afterdark.mp3",
+    "urlImgAuthor": "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs"
   },
   {
     "id": "6",
     "name": "AfterDark",
     "author": "sla",
     "urlImg": "https://images.uncyc.org/pt/9/90/After_dark.png",
-    "srcMusic": "/public/audios/afterdark.mp3"
+    "srcMusic": "/public/audios/afterdark.mp3",
+    "urlImgAuthor": "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs"
   },
   {
     "id": "7",
     "name": "AfterDark",
     "author": "sla",
     "urlImg": "https://images.uncyc.org/pt/9/90/After_dark.png",
-    "srcMusic": "/public/audios/afterdark.mp3"
+    "srcMusic": "/public/audios/afterdark.mp3",
+    "urlImgAuthor": "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs"
+  },
+  {
+    "id": "8",
+    "name": "AfterDark",
+    "author": "sla",
+    "urlImg": "https://images.uncyc.org/pt/9/90/After_dark.png",
+    "srcMusic": "/public/audios/afterdark.mp3",
+    "urlImgAuthor": "https://play-lh.googleusercontent.com/cShys-AmJ93dB0SV8kE6Fl5eSaf4-qMMZdwEDKI5VEmKAXfzOqbiaeAsqqrEBCTdIEs"
   }
 ]

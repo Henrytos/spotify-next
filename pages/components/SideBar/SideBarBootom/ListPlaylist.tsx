@@ -9,7 +9,7 @@ export default function ListPlaylist({
   return (
     <>
       <div
-        className="w-full flex flex-col  gap-3 absolute   h-[100%] right-0 top-0"
+        className="w-full flex flex-col  gap-3 absolute   h-[100%] right-0 top-0 "
         id="musicLibrary"
       >
         {musics?.map((music, i) => (

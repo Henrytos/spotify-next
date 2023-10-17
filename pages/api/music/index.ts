@@ -8,6 +8,7 @@ export type MusicType = {
   author: string;
   urlImg: string;
   srcMusic: string;
+  urlImgAuthor: string;
 };
 
 export default function handler(

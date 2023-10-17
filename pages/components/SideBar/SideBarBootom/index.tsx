@@ -31,7 +31,7 @@ const SideBarBottom: NextPage = ({ children }: { children?: ReactNode }) => {
           Criador
         </span>
       </div>
-      <div className="relative">
+      <div className="relative w-full h-full overflow-y-auto">
         <ListPlaylist musics={musics} />
       </div>
     </div>

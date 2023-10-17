@@ -1,4 +1,4 @@
-import { useContext } from "react";
+import { useContext, useEffect } from "react";
 import { ContextBg, bgType } from "../contexts/ContextBg";
 
 export const useBg = () => {
@@ -12,12 +12,13 @@ export const useBg = () => {
   ];
 
   const { bg, setBg } = useContext<bgType>(ContextBg);
+
   const setBgElement = (i: number) => {
     setBg(bgs[i]);
   };
-  const setBgHome = () => {
-    setBg("from-zinc-600/40");
-  };
 
-  return { setBgElement, setBgHome };
+  const colorTarget = (i: number) => {
+    return bgs[i];
+  };
+  return { setBgElement, colorTarget };
 };

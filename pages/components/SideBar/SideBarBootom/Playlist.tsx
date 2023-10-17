@@ -4,7 +4,7 @@ import SubText from "../../SubText";
 
 export default function Playlist({ music }: { music: MusicType }) {
   return (
-    <div className="w-full flex items-center gap-2 cursor-pointer rounded hover:bg-zinc-800 transition-colors">
+    <div className="w-full flex items-center gap-2 cursor-pointer rounded hover:bg-zinc-800 transition-colors ">
       <div>
         <img
           src={music.urlImg}
